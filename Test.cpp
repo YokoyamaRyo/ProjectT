@@ -1,4 +1,4 @@
 void testfanction
 {
-	printf("test")
+	printf("bouzu")
 }
